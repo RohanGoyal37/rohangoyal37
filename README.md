@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rohan Goyal
 - 👀 I’m interested in travelling
 - 🌱 I’m currently Pursuing BCA from Poornima University
-- 📱 How to reach me (https://www.instagram.com/rohan_goyal_2616/)"Rohan Goyal"
+- 📱 How to reach me [Rohan Goyal](https://www.instagram.com/rohan_goyal_2616/)
 - 📩 you can also mail me rohangoyal264@gmail.com
 
 <!---
