@@ -20,7 +20,7 @@ I’m currently working on:
 - **Areas of Interest**: Web Development, Data Science, AI, Travel, Digital Content Creation
 
 ## 🌍 Let's Connect!
-- 📱 Reach me on Instagram: [Rohan Goyal](https://www.instagram.com/rohan_goyal_2616/)
+- 📱 Reach me on Instagram: [Rohan Goyal](https://www.instagram.com/rohan_agarwal_37/)
 - 📩 Or shoot me an email at: [rohangoyal264@gmail.com](mailto:rohangoyal264@gmail.com)
 
 Feel free to browse through my repositories, contribute, or just say hello! Let’s learn and grow together. 😊
