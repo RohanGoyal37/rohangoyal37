@@ -1,30 +1,43 @@
 # 👋 Hi, I'm Rohan Goyal!
 
-Welcome to my GitHub profile! I'm a passionate learner and aspiring tech enthusiast currently pursuing a Bachelor of Computer Applications (BCA) at Poornima University. I love exploring the world, both through travel and technology.
+Welcome to my GitHub profile! 🚀 I'm a tech enthusiast with a love for solving problems and creating impactful projects. With a degree in Bachelor of Computer Applications (BCA) from Poornima University under my belt, I'm ready to take on new challenges and explore the endless possibilities in the tech world. 🌟
 
-## 🔍 What I Do
-I’m constantly learning new things, from coding to exploring innovative technologies. My journey is just beginning, and I'm excited to see where it leads! 
-
-- 🌱 I’m focusing on improving my coding skills and diving deep into computer science concepts.
-- 📚 I love solving problems and building projects that make a difference.
-  
-## 💻 Current Projects
-I’m currently working on:
-- **Web Development**: Learning full-stack development, building some interesting projects along the way.
-- **Data Science**: Exploring data analysis and machine learning.
-- **Travel Blog**: Combining my love for travel and tech to create a blog with interactive maps and travel guides.
-
-## 📚 Skills & Interests
-- **Languages**: Python, JavaScript, HTML/CSS
-- **Tools**: Git, GitHub, MySQL, VS Code
-- **Areas of Interest**: Web Development, Data Science, AI, Travel, Digital Content Creation
-
-## 🌍 Let's Connect!
-- 📱 Reach me on Instagram: [Rohan Goyal](https://www.instagram.com/rohan_agarwal_37/)
-- 📩 Or shoot me an email at: [rohangoyal264@gmail.com](mailto:rohangoyal264@gmail.com)
-
-Feel free to browse through my repositories, contribute, or just say hello! Let’s learn and grow together. 😊
+> 💡 *"Every great idea begins with curiosity, and every great project starts with a single line of code."*  
 
 ---
 
-_"The journey of a thousand lines of code begins with a single commit."_ 🚀
+## 📊 GitHub Stats
+![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=37rohan&show_icons=true&count_private=true&hide=prs&theme=radical)
+
+## 📈 GitHub Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=37rohan&color=brightgreen)
+
+---
+
+## 🔍 What I Do
+I thrive on learning new things and pushing the boundaries of what's possible. My journey is just beginning, and I’m excited about creating solutions that make a difference. Here's what I focus on:
+
+- 🌱 Improving my coding skills and diving deep into computer science concepts.
+- 📚 Exploring new technologies like Web Development, Data Science, and Machine Learning.
+- 🌍 Traveling to explore new places, which inspires my creativity and thinking.
+
+---
+
+## 💻 Current Projects
+I'm actively working on:
+- **Web Development**: Building full-stack projects to enhance my skills and create dynamic web applications.
+- **Data Analysis**: Using data-driven insights to uncover patterns and solve real-world problems.
+- **Interactive Travel Blog**: Merging my love for travel and tech to develop a blog with interactive maps and experiences.
+
+---
+
+## 💬 Let's Connect!
+- 📱 Reach me on Instagram: [Rohan Goyal](https://www.instagram.com/rohan_agarwal_37/)
+- 📩 Email me at: [rohangoyal264@gmail.com](mailto:rohangoyal264@gmail.com)
+
+Feel free to explore my repositories, contribute, or simply connect to share ideas! Collaboration and learning are always better together. 😊
+
+---
+
+> ✨ *"Code is like art; it's meant to inspire, challenge, and create something extraordinary."*  
+> ✈️ *"Travel far, code hard, and leave a legacy."* 🌍
