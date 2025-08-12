@@ -7,10 +7,10 @@ Welcome to my GitHub profile! 🚀 I'm a tech enthusiast with a love for solving
 ---
 
 ## 📊 GitHub Stats
-![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=37rohan&show_icons=true&count_private=true&hide=prs&theme=radical)
+![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohangoyal37&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 ## 📈 GitHub Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=37rohan&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=rohangoyal37&color=brightgreen)
 
 ---
 
@@ -32,7 +32,7 @@ I'm actively working on:
 ---
 
 ## 💬 Let's Connect!
-- 📱 Reach me on Instagram: [Rohan Goyal](https://www.instagram.com/rohan_agarwal_37/)
+- 📱 Reach me on Instagram: [Rohan Goyal](https://www.instagram.com/rohangoyal_37/)
 - 📩 Email me at: [rohangoyal264@gmail.com](mailto:rohangoyal264@gmail.com)
 
 Feel free to explore my repositories, contribute, or simply connect to share ideas! Collaboration and learning are always better together. 😊
