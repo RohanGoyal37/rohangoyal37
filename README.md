@@ -24,11 +24,11 @@
 
 ---
 
-## 🚀 About Me - Engineering Intelligence
+## 🚀 About Me — Engineering Intelligence
 
-<table>
-<tr>
-<td width="60%" valign="top">
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding" width="400"/>
+</div>
 
 ```python
 class SoftwareEngineer:
@@ -65,20 +65,11 @@ me = SoftwareEngineer()
 me.say_hi()
 ```
 
-</td>
-<td width="40%" valign="top">
-
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding" width="100%"/>
-
-</td>
-</tr>
-</table>
-
 <details open>
 <summary><b>💡 What I Build & Why</b></summary>
 <br>
 
-I'm a **Software Engineer** specializing in **Python development** with a passion for **Machine Learning** and **Data Science**. I don't just write code-I engineer solutions that learn, adapt, and make intelligent decisions.
+I'm a **Software Engineer** specializing in **Python development** with a passion for **Machine Learning** and **Data Science**. I don't just write code—I engineer solutions that learn, adapt, and make intelligent decisions.
 
 From building **predictive ML models** that forecast used car prices to developing **voice-assisted AI systems** inspired by JARVIS, I thrive at the intersection of software engineering and artificial intelligence.
 
