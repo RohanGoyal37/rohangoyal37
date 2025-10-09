@@ -24,7 +24,7 @@
 
 ---
 
-## 🚀 About Me — Engineering Intelligence
+## 🚀 About Me - Engineering Intelligence
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding" width="400"/>
@@ -44,8 +44,8 @@ class SoftwareEngineer:
         return {
             "primary": ["Python Development", "Django Framework"],
             "data": ["Machine Learning", "Data Analysis", "Predictive Modeling"],
-            "tools": ["Pandas", "NumPy", "Scikit-learn", "TensorFlow"],
-            "databases": ["MySQL", "MongoDB", "JsonPowerDB"],
+            "tools": ["Pandas", "NumPy", "Git/GitHub", "Tableau"],
+            "databases": ["MySQL", "MongoDB", "JsonPowerDB", "PostgreSQL", BigQuery"],
             "web": ["Django", "React", "REST APIs"]
         }
     
@@ -69,7 +69,7 @@ me.say_hi()
 <summary><b>💡 What I Build & Why</b></summary>
 <br>
 
-I'm a **Software Engineer** specializing in **Python development** with a passion for **Machine Learning** and **Data Science**. I don't just write code—I engineer solutions that learn, adapt, and make intelligent decisions.
+I'm a **Software Engineer** specializing in **Python development** with a passion for **Machine Learning** and **Data Science**. I don't just write code-I engineer solutions that learn, adapt, and make intelligent decisions.
 
 From building **predictive ML models** that forecast used car prices to developing **voice-assisted AI systems** inspired by JARVIS, I thrive at the intersection of software engineering and artificial intelligence.
 
