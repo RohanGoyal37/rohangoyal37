@@ -45,7 +45,7 @@ class SoftwareEngineer:
             "primary": ["Python Development", "Django Framework"],
             "data": ["Machine Learning", "Data Analysis", "Predictive Modeling"],
             "tools": ["Pandas", "NumPy", "Git/GitHub", "Tableau"],
-            "databases": ["MySQL", "MongoDB", "JsonPowerDB", "PostgreSQL", BigQuery"],
+            "databases": ["MySQL", "MongoDB", "JsonPowerDB", "PostgreSQL", "BigQuery"],
             "web": ["Django", "React", "REST APIs"]
         }
     
